@@ -10,6 +10,7 @@ Fullstack technologies such as:
 
 And also started with some basics in mobile development:
 - Android Studio
+- Kotlin
 - Firebase
 - Flutter(soon)
 
