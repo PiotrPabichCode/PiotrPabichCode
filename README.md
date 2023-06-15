@@ -1,23 +1,19 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Hello;Welcome;Good+morning;Good+afternoon;Good+evening)](https://git.io/typing-svg)
+
 # Hi 👋 I'm Piotrek
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=2384F7&multiline=true&repeat=false&width=880&height=150&lines=Hello%2C+my+name+is+Piotrek+and+I'm+a+third-year+student+at+the+Lodz;University+of+Technology(Computer+Science).+I+have+a+passion+for+staying;active+and+enjoy+engaging+in+various+physical+activities+such+as;running+and+gym.+In+my+free+time%2C+I+also+like+to+learn+about+technologies;and+current+events+to+stay+informed+and+expand+my+knowledge.)]()
+## 🌱 My skills
 
-Hello, my name is Piotrek and I'm a third-year student at the Lodz University of Technology. I have a passion for staying active and enjoy engaging in various physical activities such as running and gym. In my free time, I also like to learn about technologies and current events to stay informed and expand my knowledge.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,postgres,figma,git,github,c,cpp,androidstudio,kotlin)](https://skillicons.dev)
 
-## 🌱 I'm Currently Learning
-
-Fullstack technologies such as:
-- ReactJS
-- Spring Boot
-
-And also started with some basics in mobile development:
-- Android Studio
-- Kotlin
-- Firebase
-- Flutter(soon)
 
 ## 📫 How to Reach Me
 
-- [Email](piotrekpabich2@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/piotr-pabich-346170274/)
+<a target="_blank" href="mailto:ppabich1@gmail.com">
+  <img align="left" alt="Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piotr-pabich-346170274/)
 
 ## 🤝 Let's Connect
 
